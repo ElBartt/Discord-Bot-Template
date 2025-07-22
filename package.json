@@ -25,7 +25,7 @@
   "license": "MIT",
   "dependencies": {
     "axios": "^1.9.0",
-    "discord.js": "^14.13.0",
+    "discord.js": "^14.21.0",
     "dotenv": "^16.3.1",
     "module-alias": "^2.2.3",
     "mysql2": "^3.14.1",
